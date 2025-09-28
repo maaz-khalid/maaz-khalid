@@ -1,0 +1,38 @@
+# .github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs every 12 hours (Midnight UTC and Noon UTC)
+    - cron: '0 0,12 * * *' 
+
+  # Allows manual run from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+            # Fetch-depth 0 is required for committing to a different branch later
+            fetch-depth: 0 
+
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: maaz-khalid
+          # We only generate the main SVG for simplicity
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            
+      - name: Commit and Push to 'output' Branch
+        # This action handles creating the 'output' branch if it doesn't exist
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: output 
+          message: 'Update contribution snake SVG'
+          add: 'dist/github-contribution-grid-snake.svg' # Commit the specific file
