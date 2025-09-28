@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/maaz-khalid" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -42,6 +42,7 @@
 </div>
 <br/>
 <hr/>
+<br/>
 
 <h2 align="center">🚀 Personal Generative AI & ML Projects 🚀</h2>
 
@@ -57,7 +58,7 @@
 ### **Deep Learning & Classification**
 * **Skin Cancer Classification - Malignant vs Benign**: Used **Transfer Learning** and fine-tuning on the ISIC Archive dataset, employing **VGG16** and **EfficientNetB1** architectures with **TensorFlow Keras**.
 * **Human Activity Recognition**: Developed a classification system to identify human activities using **Convolutional Neural Networks (CNN)** and **Long-Short Term Memory (LSTM)** networks on the UCF50 dataset.
-
+<br/>
 <hr/>
 
 <div align="center">
@@ -65,11 +66,11 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/maaz-khalid/maaz-khalid/main/dist/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
-
+<br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
