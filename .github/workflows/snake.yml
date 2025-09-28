@@ -1,12 +1,11 @@
-# .github/workflows/snake.yml
-
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake Animation
 
 on:
   schedule:
     # Runs every 12 hours (Midnight UTC and Noon UTC)
     - cron: '0 0,12 * * *' 
-
+  
   # Allows manual run from the Actions tab
   workflow_dispatch:
 
