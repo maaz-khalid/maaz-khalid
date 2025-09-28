@@ -37,8 +37,7 @@
 <h2 align="center">⚒️ Core Technical Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,linux,fastapi,mysql,html,css" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,react" /><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,linux,fastapi,mysql,html,css,flask,git,github,vscode,react" />
 </div>
 <br/>
 <hr/>
@@ -54,6 +53,7 @@
 ### **Generative AI Agents & Tools**
 * **Resume Matcher Pro**: A resume analyzer utilizing the **Gemini Pro** generative AI model to compare resumes against job descriptions, deployed with a **Streamlit** interface.
 * **CrewAI: Multi-Agent Research Assistants**: Developed a multi-agent system (Senior Researcher, Writer) using **CrewAI** and the **Gemini-1.5-Flash** LLM, incorporating **SerperDevTool** for enhanced content generation.
+* **AI Bill Analyzer**: A **Flask** web application using **Google Gemini AI** for Multimodal Bill Analysis (OCR and structure extraction) from image uploads, featuring interactive chat and JSON data export.
 
 ### **Deep Learning & Classification**
 * **Skin Cancer Classification - Malignant vs Benign**: Used **Transfer Learning** and fine-tuning on the ISIC Archive dataset, employing **VGG16** and **EfficientNetB1** architectures with **TensorFlow Keras**.
