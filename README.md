@@ -10,26 +10,26 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **Generative AI** and **RAG systems**, leveraging models like **Gemini, Gemma, and LLaMA**.<br/>
+ 🔭 I'm currently working on <b>Agentic AI</b> and <b>Multimodal LLMs.</b><br/>
  
- 🌱 I specialize in **Large Language Models (LLMs)**, **Deep Learning**, and **developing production-ready microservices on AWS**.<br/>
+ 🌱 I specialize in <b>Machine Learning</b>, <b>Deep Learning</b>, <b>AI</b> and <b>AWS</b>.<br/>
 
-💬 Ask me about **RAG architectures, multi-agent systems (CrewAI), custom embeddings, or image classification using Transfer Learning**!<br/>
+ 💬 Currently exploring <b>MCP clients and servers.</b><br/>
 
-⚡ Fun fact **My ALS Fluids project at John Deere is projected to save $4.3 million through a 100% automated diagnostic workflow!**<br/>
+</div>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:maazsaad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/maaz-khalid-73bba21b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/maaz-khalid" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
+<br/>
+
+<div align="center"> 
+  <a href="mailto:maazsaad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/maaz-khalid-73bba21b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/maaz-khalid" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
@@ -82,5 +82,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
